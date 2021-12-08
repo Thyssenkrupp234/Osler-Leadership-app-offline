@@ -49,5 +49,10 @@
     "linux": {
         "target": "AppImage",
         "category": "Utility"
+    },
+    "nsis": {
+        "oneClick": "false",
+        "perMachine": "false",
+        "allowToChangeInstallationDirectory": "true"
     }
 }
