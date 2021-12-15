@@ -45,7 +45,9 @@
     }
   },
   "dependencies": {
+    "electron-log": "^4.4.1",
     "electron-squirrel-startup": "^1.0.0",
+    "electron-updater": "^4.6.1",
     "save-dev": "^0.0.1-security"
   },
   "devDependencies": {
