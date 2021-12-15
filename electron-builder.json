@@ -1,5 +1,6 @@
 {
-    "appId": "com.lincolnmuller.oslerleadship",
+    "appId": "com.github.thyssenkrupp234.osler-leadership-app-offline",
+    "afterSign": "./build/notarize.js",
     "productName": "Osler Leadership app",
     "copyright": "Lincoln Muller",
     "directories": {
