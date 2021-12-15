@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 {
   "name": "osler-leadership-offline",
   "productName": "osler leadership (offline)",
-  "version": "v0.0.2",
+  "version": "v0.0.6",
   "description": "Osler Leadership offline variant",
   "main": "src/index.js",
   "scripts": {
@@ -60,3 +61,21 @@
     "electron-builder": "^22.14.5"
   }
 }
+=======
+{
+  "name": "oslerleadership-app-offline",
+  "version": "v0.0.6",
+  "main": "src/main.js",
+  "description": "Oslerleadership offline app",
+  "author": "Lincoln Muller",
+  "devDependencies": {
+    "electron": "^14.0.1",
+    "electron-builder": "^22.11.7",
+    "electron-notarize": "^1.1.1"
+  },
+  "dependencies": {
+    "electron-log": "^4.4.1",
+    "electron-updater": "^4.3.9"
+  }
+}
+>>>>>>> 4dd6d5c1b61368238cc30d1a0d30abe3e927214e
