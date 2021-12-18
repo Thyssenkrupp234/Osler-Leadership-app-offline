@@ -45,6 +45,7 @@
     }
   },
   "dependencies": {
+    "dmg-license": "^1.0.10",
     "electron-log": "^4.4.1",
     "electron-notarize": "^1.1.1",
     "electron-squirrel-startup": "^1.0.0",

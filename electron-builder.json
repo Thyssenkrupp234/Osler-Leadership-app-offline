@@ -28,8 +28,8 @@
     "pkg": {
         "allowCurrentUserHome": "true",
         "allowAnywhere": "true",
-        "welcome": "/pkg-config/welcome.rtf",
-        "conclusion": "/pkg-config/summary.rtf"
+        "welcome": "build-res/welcome.rtf",
+        "conclusion": "build-res/summary.rtf"
     },
     "mac": {
         "target": [
