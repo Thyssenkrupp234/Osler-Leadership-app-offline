@@ -8,8 +8,8 @@
     "start": "electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make",
-    "publish": "electron-forge publish",
-    "lint": "echo \"No linting configured\""
+    "lint": "echo \"No linting configured\"",
+    "publish": "electron-builder --mac --win -p always"
   },
   "keywords": [],
   "author": {
