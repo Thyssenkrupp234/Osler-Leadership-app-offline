@@ -7,6 +7,11 @@
         "output": "out",
         "buildResources": "build-res"
     },
+    "publish": {
+        "provider": "github",
+        "owner": "Thyssenkrupp234",
+        "repo": "osler-leadership-app-offline"
+    },
     "dmg": {
         "window": {
             "width": "700",
