@@ -7,9 +7,6 @@
         "output": "out",
         "buildResources": "build-res"
     },
-    "scripts": {
-        "publish": "electron-builder --mac --win -p always"
-    },
     "publish": {
         "provider": "github",
         "owner": "Thyssenkrupp234",
